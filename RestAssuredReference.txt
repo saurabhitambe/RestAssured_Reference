@@ -1,0 +1,10 @@
+Project Description:
+
+I have created "RestAssured_Reference" project to automate all types of APIs like SOAP and REST using RestAssured.
+
+Features of Project are as follows:
+1) Capabilities to automate and Validation:
+     > Rest : POST, PUT, PATCH, DELETE and GET.
+     > SOAP : POST
+   
+2) In that single class having Requestbody and Responsebody and validation of responsebody also done in same class.
